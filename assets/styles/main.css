@@ -136,7 +136,7 @@ img {
 
 .footer {
   padding: 45px 0 130px;
-  background: #1e4776;
+  background: #000000;
 }
 
 .footer__row {
@@ -159,12 +159,14 @@ img {
   margin: 0 0 15px;
   font-weight: 700;
   font-size: 28px;
+  color: #ffffff;
 }
 
 .footer__copyright-description {
   margin: 0 0 15px;
   font-weight: 600;
   font-size: 16px;
+  color: #cccccc;
 }
 
 .footer__icons {
