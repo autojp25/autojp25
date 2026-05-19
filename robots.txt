@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://autojp25.com/sitemap.xml
